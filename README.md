@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there 👋👩‍💻
 
-### 👩‍💻 Technologies 
-  #### Frameworks I used: 
+ 
+#### Frameworks I used: 
    -  ⚛️ React, 
    -  📱 React Native,
    -  🍃 Java Spring,
-  #### Programming languages
+#### Programming languages
    -  Java
    -  JavaScript
    -  C++ 
