@@ -9,3 +9,5 @@
    -  Java
    -  JavaScript
    -  C++ 
+
+I can also create and manage relative databases (mostly MySQL).
