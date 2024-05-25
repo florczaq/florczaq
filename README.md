@@ -16,4 +16,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 <br/>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=florczaq&show_icons=true&locale=en&layout=compact" alt="florczaq" /></p>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=florczaq&show_icons=true&locale=en&theme=dracula&hide_progress=false" alt="florczaq" /></a>
+</p>
