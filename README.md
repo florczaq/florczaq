@@ -17,5 +17,5 @@
 </p>
 <br/>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=florczaq&show_icons=true&locale=en&theme=dracula&hide_progress=false" alt="florczaq" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=florczaq&show_icons=true&locale=en&theme=dracula&hide_progress=true" alt="florczaq" /></a>
 </p>
