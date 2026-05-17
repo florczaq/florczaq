@@ -1,7 +1,18 @@
 ## Hi, I'm Mikołaj👋  
+
+
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/florczaq?cardType=github&theme=github-dark&fontFamily=&preferLogin=true&Points.ContributedToNotOwnerRepositories=1&Points.DirectStars=1&Points.PullRequestsToAnotherRepositories=1&Points.CommitsToAnotherRepositories=1" alt="My Awesome Stats">
+  </a>
+</p>
+
 **Backend‑leaning Full‑Stack Developer | Java & Spring Enthusiast | DevOps‑curious**
 
-I build reliable, maintainable systems with a strong focus on backend architecture, clean design, and automation. I enjoy turning complex problems into elegant solutions. Whether that’s through robust APIs, efficient data models, or smooth CI/CD pipelines.
+I build reliable, maintainable systems with a strong focus on backend architecture, clean design, and automation. I enjoy turning complex problems into elegant solutions. Whether that’s through robust APIs, efficient data models, or automated CI/CD pipelines.
+
+
+
 
 ### What I Work With
 
